@@ -1,0 +1,6 @@
+{
+    "require": {
+        "ifsnop/mysqldump-php": "^2.7",
+        "y0lk/sqldumper": "^0.1.2"
+    }
+}
